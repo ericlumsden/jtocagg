@@ -4,7 +4,25 @@ html {
     background-size: cover;
 }
 
-h1 {
+h2 {
     color: #4b2e83;
     padding: 10px 10px 10px 10px;
+    font: 35px Arial, sans-serif;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    height: 20px;
+    padding: 10px 10px 10px 10px;
+    font: 15px Arial, sans-serif;
+}
+
+a:link {
+    color: #4b2e83;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
 }
